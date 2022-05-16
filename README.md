@@ -137,7 +137,7 @@ Please share your challenges about this DLL and how to program with it.
     
 ## Road map
 
-- Support for a variety of hash algorithms
+- Convert Persian numbers without Unicode
 
 - Convenient and easy to use
 
